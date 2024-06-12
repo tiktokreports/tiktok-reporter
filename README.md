@@ -3,7 +3,7 @@ a free report app that bans tiktok accounts
 
 REPORT APP V2.0
 
-for windows pc and macbook 🔥 
+for windows pc and macbook  
 
 developer: https://t.me/pysmart 👨‍💻
 
