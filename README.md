@@ -36,3 +36,5 @@ https://t.me/pysmart
 ⚙️ residential proxies
 
 developer: https://t.me/pysmart
+
+developed with python
