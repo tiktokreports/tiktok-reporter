@@ -38,3 +38,5 @@ https://t.me/pysmart
 developer: https://t.me/pysmart
 
 developed with python3.12
+
+version 3.0.0 is processing
