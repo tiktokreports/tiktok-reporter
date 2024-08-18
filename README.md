@@ -1,7 +1,7 @@
 # tiktok-reporter
 a free report app that bans tiktok accounts
 
-REPORT APP V2.0
+REPORT APP V2.0.0
 
 for windows pc and macbook  
 
