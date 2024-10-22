@@ -33,7 +33,7 @@ https://t.me/pysmart
 
 ⚙️ app sessions 
 
-⚙️ residential proxies
+⚙️ socks5 proxies
 
 developer: https://t.me/pysmart
 
