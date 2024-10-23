@@ -33,7 +33,7 @@ https://t.me/pysmart
 
 ⚙️ app sessions 
 
-⚙️ socks5 proxies
+⚙️ HTTPS proxies
 
 developer: https://t.me/pysmart
 
